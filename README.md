@@ -5,7 +5,6 @@ This Python program implements the classic Snake game using the Turtle module fo
 
 Key Features
 
-
 1.Game Setup:
 The game window is initialized with a start button, allowing the player to begin the game.
 Upon starting, the Snake game window opens, and the player can control the snake using arrow keys.
