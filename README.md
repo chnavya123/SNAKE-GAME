@@ -24,4 +24,4 @@ Bonus points are awarded after eating a certain number of food items consecutive
 
 4.Scoring:
 The player's score is displayed on the screen, along with the highest score achieved.
-The highest score is stored and updated in a file (highest_score.txt).
+
