@@ -3,7 +3,7 @@ I developed this portfolio which contains Python code for a simple Snake game. P
 
 This Python program implements the classic Snake game using the Turtle module for graphics. The game provides a simple yet engaging experience where the player controls a snake to eat food items, growing longer with each meal. The objective is to avoid colliding with the walls or the snake's own body.
 
-KEY FEATURES
+KEY FEATURES:
 
 1.Game Setup:
 The game window is initialized with a start button, allowing the player to begin the game.
