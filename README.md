@@ -28,7 +28,8 @@ The player's score is displayed on the screen, along with the highest score achi
 *GAME WINDOW WITH A START BUTTON
 ![startbutton](https://github.com/chnavya123/SNAKE-GAME/assets/166832728/fc11ce54-dc94-4ebd-ab40-941930001d11)
 
+*PLAYERS SCORE-ALONG WITH THE HIGH SCORE
 
 ![gameoverscreeen](https://github.com/chnavya123/SNAKE-GAME/assets/166832728/d005a977-a6b3-4d52-9215-4fff342da8ec)
 
-![gameoverscreeen](https://github.com/chnavya123/SNAKE-GAME/assets/166832728/d005a977-a6b3-4d52-9215-4fff342da8ec)
+
