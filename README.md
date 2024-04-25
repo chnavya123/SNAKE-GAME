@@ -25,7 +25,8 @@ Bonus points are awarded after eating a certain number of food items consecutive
 The player's score is displayed on the screen, along with the highest score achieved.
 
 **GAME WINDOW WITH A START BUTTON**
-![startbutton](https://github.com/chnavya123/SNAKE-GAME/assets/166832728/fc11ce54-dc94-4ebd-ab40-941930001d11)
+![Screenshot 2024-04-25 210445](https://github.com/chnavya123/SNAKE-GAME/assets/166832728/05950009-59f6-410c-b25f-d42d671cba31)
+
 
 **PLAYERS SCORE-ALONG WITH THE HIGH SCORE**
 
