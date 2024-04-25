@@ -3,31 +3,31 @@ I developed this portfolio which contains Python code for a simple Snake game. P
 
 This Python program implements the classic Snake game using the Turtle module for graphics. The game provides a simple yet engaging experience where the player controls a snake to eat food items, growing longer with each meal. The objective is to avoid colliding with the walls or the snake's own body.
 
-KEY FEATURES:
+***KEY FEATURES:***
 
-1.Game Setup:
+**1.Game Setup:**
 The game window is initialized with a start button, allowing the player to begin the game.
 Upon starting, the Snake game window opens, and the player can control the snake using arrow keys.
 
 
-2.Game Mechanics:
+**2.Game Mechanics:**
 The snake moves continuously in the direction specified by the player.
 If the snake eats food, it grows longer, and the player's score increases.
 The game ends if the snake collides with the walls or its own body.
 
 
-3.Additional Features:
+**3.Additional Features:**
 Sound effects are incorporated for eating food and game over events.
 Bonus points are awarded after eating a certain number of food items consecutively.
 
 
-4.Scoring:
+**4.Scoring:**
 The player's score is displayed on the screen, along with the highest score achieved.
 
-*GAME WINDOW WITH A START BUTTON
+**GAME WINDOW WITH A START BUTTON**
 ![startbutton](https://github.com/chnavya123/SNAKE-GAME/assets/166832728/fc11ce54-dc94-4ebd-ab40-941930001d11)
 
-*PLAYERS SCORE-ALONG WITH THE HIGH SCORE
+**PLAYERS SCORE-ALONG WITH THE HIGH SCORE**
 
 ![gameoverscreeen](https://github.com/chnavya123/SNAKE-GAME/assets/166832728/d005a977-a6b3-4d52-9215-4fff342da8ec)
 
