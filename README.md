@@ -32,6 +32,7 @@ The player's score is displayed on the screen, along with the highest score achi
 
 **PLAYERS SCORE-ALONG WITH THE HIGH SCORE**
 
-![gameoverscreeen](https://github.com/chnavya123/SNAKE-GAME/assets/166832728/d005a977-a6b3-4d52-9215-4fff342da8ec)
+![Screenshot 2024-04-25 210552](https://github.com/chnavya123/SNAKE-GAME/assets/166832728/2df48d8f-6df7-48ef-b764-071c3f366439)
+
 
 
