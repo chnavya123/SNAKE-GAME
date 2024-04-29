@@ -13,7 +13,7 @@ pause_state = False
 
 screen = turtle.Screen()
 screen.setup(width=600, height=600)
-screen.bgpic("s9.gif")
+screen.bgpic("startgame.gif")
 
 def start_game():
     global game_screen
@@ -242,7 +242,7 @@ def game_over():
 
     splash_text.write("Press any key to start ", font=("Candara", 25, "bold"), align="center")
     splash_text.hideturtle()
-    winsound.PlaySound("mixkit-arcade-space-shooter-dead-notification-272.wav", winsound.SND_FILENAME)
+    winsound.PlaySound("gameover.wav", winsound.SND_FILENAME)
     game_screen.update()
 
     screen.onkeypress(start_game)
