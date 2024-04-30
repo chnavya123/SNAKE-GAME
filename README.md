@@ -1,7 +1,7 @@
 # SNAKE-GAME
 I developed this portfolio which contains Python code for a simple Snake game. Players control a snake, guiding it to eat food while avoiding collisions with walls and itself. The game tracks the player's score and highest score. Great for Python beginners and game enthusiasts alike!
 
-This Python program implements the classic Snake game using the Turtle module for graphics. The game provides a simple yet engaging experience where the player controls a snake to eat food items, growing longer with each meal. The objective is to avoid colliding with the walls or the snake's own body.
+This Python program implements the classic Snake game using the Turtle module for graphics.The game provides a simple yet engaging experience where the player controls a snake to eat food items, growing longer with each meal. The objective is to avoid colliding with the walls or the snake's own body.
 
 ***KEY FEATURES:***
 
